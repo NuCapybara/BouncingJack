@@ -3,14 +3,14 @@
 ## Introduction
 
 The focal point of this project is the modeling of the mechanical system of a jack bouncing around in the boundary of a box.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tao88HEVpCM?si=vVmRJsC1lFIM1Tcr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+https://github.com/NuCapybara/BouncingJack/assets/144244355/900b4084-231e-4ce0-8523-473260039387
 
 ## Overall System and Reference Frames
 
 Attached is a detailed drawing of the system, illustrating all the frames in use, complete with frame labels. These frames and their labels have been consistently used and identified in the code to maintain clarity and coherence.
 
-![targets](/images/jack.jpeg)
+![jack](https://github.com/NuCapybara/BouncingJack/assets/144244355/4e5da436-0f0d-42e7-a501-7b806172e35f)
 <br />
 <br />
 
