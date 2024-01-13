@@ -3,8 +3,7 @@
 ## Introduction
 
 The focal point of this project is the modeling of the mechanical system of a jack bouncing around in the boundary of a box.
-{{< youtube tao88HEVpCM>}}
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=tao88HEVpCM)
 
 
 ## Overall System and Reference Frames
